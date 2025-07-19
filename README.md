@@ -9,7 +9,7 @@ We demonstrate several constructions of nonstandard models of arithmetic using o
 Kim Altair
 
 # Download the thesis
-https://github.com/KimAltair/PA/blob/main/PA.pdf
+[https://github.com/KimAltair/PA/blob/main/PA.pdf](https://github.com/KimAltair/PA/blob/main/PA.pdf)
 
 ## E mail
 dbnjk515@gmail.com
